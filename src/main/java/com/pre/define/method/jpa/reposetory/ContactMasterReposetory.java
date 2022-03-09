@@ -1,4 +1,4 @@
-package com.standalone.jpa.reposetory;
+package com.pre.define.method.jpa.reposetory;
 
 
 
@@ -6,7 +6,7 @@ import java.util.List;
 
 import org.springframework.data.repository.CrudRepository;
 
-import com.standalone.jpa.entities.ContactMasterEntity;
+import com.pre.define.method.jpa.entities.ContactMasterEntity;
 
 public interface ContactMasterReposetory extends CrudRepository<ContactMasterEntity, Integer> {
 

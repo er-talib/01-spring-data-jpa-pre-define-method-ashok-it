@@ -1,4 +1,4 @@
-package com.standalone.jpa;
+package com.pre.define.method.jpa;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -9,8 +9,8 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ConfigurableApplicationContext;
 
-import com.standalone.jpa.entities.ContactMasterEntity;
-import com.standalone.jpa.reposetory.ContactMasterReposetory;
+import com.pre.define.method.jpa.entities.ContactMasterEntity;
+import com.pre.define.method.jpa.reposetory.ContactMasterReposetory;
 
 @SpringBootApplication
 public class SpringDataJpaAshokItApplication {

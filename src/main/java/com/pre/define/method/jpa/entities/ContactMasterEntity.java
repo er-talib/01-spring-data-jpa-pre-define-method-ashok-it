@@ -1,4 +1,4 @@
-package com.standalone.jpa.entities;
+package com.pre.define.method.jpa.entities;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;
